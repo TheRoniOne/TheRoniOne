@@ -17,7 +17,7 @@
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png" />
 <img align="left" alt="Julia" width="26px" src="https://avatars.githubusercontent.com/u/743164?s=400&v=4" />
-<img align="left" alt="Android" width="26px" src="https://source.android.com/setup/images/Android_symbol_green_RGB.png" />
+<img align="left" alt="Android" width="26px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" />
 <img align="left" alt="RStudio" width="26px" src="https://d33wubrfki0l68.cloudfront.net/521a038ed009b97bf73eb0a653b1cb7e66645231/8e3fd/assets/img/rstudio-icon.png" />
 <img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
