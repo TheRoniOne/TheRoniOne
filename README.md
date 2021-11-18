@@ -1,9 +1,9 @@
-### Hi there, I'm Roni - aka TheRoniOne 👋
+### Hi there, I'm Ronald Gamez - aka TheRoniOne 👋
 
-## I'm a developer and a student at the University of Lima.
+## I'm a developer and Bachelor in Systems Engineering from the University of Lima.
 
-- 🔭 I’m currently working on developing a new package in Julia for data manipulation.
-- 🌱 I’m currently learning Julia and Docker.
+- 🔭 I’m currently working on development of a package in Julia for data cleaning.
+- 🌱 I’m currently learning Dash and Docker.
 - ⚡ Fun fact: I like playing videogames as much as I like coding.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
