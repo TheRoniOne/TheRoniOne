@@ -3,7 +3,7 @@
 ## I'm a developer and Bachelor in Systems Engineering from the University of Lima.
 
 - 🔭 I’m currently working on development of a package in Julia for data cleaning.
-- 🌱 I’m currently learning Dash and Kubernetes.
+- 🌱 I’m currently learning Rust.
 - ⚡ Fun fact: I like playing videogames as much as I like coding.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
