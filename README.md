@@ -24,7 +24,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Docker" width="26px" src="https://imgs.search.brave.com/wDj1kJE3ZutQvKiMEF1jf-qbtiSqUoPtTy_9tHTK1Ig/rs:fit:600:430:1/g:ce/aHR0cHM6Ly93d3cu/ZG9ja2VyLmNvbS9z/aXRlcy9kZWZhdWx0/L2ZpbGVzL2Q4L3N0/eWxlcy9yb2xlX2lj/b24vcHVibGljLzIw/MTktMDcvTW9ieS1s/b2dvLnBuZz9pdG9r/PXNZSF9KRWFK" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" />
 
 <br />
 <br />
