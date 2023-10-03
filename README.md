@@ -2,12 +2,8 @@
 
 ## I'm a developer and Bachelor in Systems Engineering from the University of Lima.
 
-- 🔭 I’m currently working on development of a package in Julia for data cleaning.
-- 🌱 I’m currently learning Rust.
-- ⚡ Fun fact: I like playing videogames as much as I like coding.
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+- I’m currently developing a full-stack app using Django and Next.js.
+- I’m currently learning Rust.
 
 ### Contact me:
 [<img align="left" alt="TheRoniOne | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
