@@ -2,8 +2,8 @@
 
 ## I'm a developer and Bachelor in Systems Engineering from the University of Lima.
 
-- I’m currently developing a full-stack app using Django and Next.js.
-- I’m currently learning Rust.
+- I’m currently developing a backend for a personal project using Django.
+- I’m currently learning Go and Rust.
 
 ### Contact me:
 [<img align="left" alt="TheRoniOne | LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />][linkedin]
