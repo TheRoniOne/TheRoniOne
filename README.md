@@ -1,4 +1,4 @@
-### Hi there, I'm Ronald Gamez - aka TheRoniOne 👋
+### Hi there, I'm Ronald Gamez - aka TheRoniOne
 
 ## I'm a developer and Bachelor in Systems Engineering from the University of Lima.
 
